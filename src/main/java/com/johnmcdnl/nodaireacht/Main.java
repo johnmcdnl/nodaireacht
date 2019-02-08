@@ -1,4 +1,4 @@
-package com.johnmcdnl.gjson;
+package com.johnmcdnl.nodaireacht;
 
 public class Main {
 
@@ -15,6 +15,6 @@ public class Main {
             "}";
 
     public static void main(String[] args) {
-        new GJson(jsonString).get("name.first");
+        new Nodaireacht(jsonString).get("name.first");
     }
 }

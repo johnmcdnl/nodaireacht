@@ -1,4 +1,4 @@
-package com.johnmcdnl.gjson;
+package com.johnmcdnl.nodaireacht;
 
 public enum  ResultType {
     Undefined,

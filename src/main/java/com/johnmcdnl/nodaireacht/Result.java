@@ -1,4 +1,4 @@
-package com.johnmcdnl.gjson;
+package com.johnmcdnl.nodaireacht;
 
 import com.google.gson.*;
 import org.apache.commons.lang3.StringUtils;

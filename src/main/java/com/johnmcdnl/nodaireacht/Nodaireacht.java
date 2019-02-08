@@ -1,9 +1,9 @@
-package com.johnmcdnl.gjson;
+package com.johnmcdnl.nodaireacht;
 
-public class GJson {
+public class Nodaireacht {
     private String jsonStr;
 
-    public GJson(String jsonStr) {
+    public Nodaireacht(String jsonStr) {
         this.jsonStr = jsonStr;
     }
 
